@@ -3,7 +3,7 @@ python-telegram-bot
 numpy
 pandas
 colorama
-beautfulsoup4
+beautifulsoup4
 playwright
 websockets
 pytz
