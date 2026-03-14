@@ -3,3 +3,9 @@ python-telegram-bot
 numpy
 pandas
 colorama
+beautfulsoup4
+playwright
+websockets
+pytz
+python-dotenv
+aiohttp
